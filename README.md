@@ -9,7 +9,10 @@
 ---
 
 ![Blood Cells](https://upload.wikimedia.org/wikipedia/commons/4/42/Hematopoiesis_simple.png)  
-*Image source: Wikipedia*
+
+*Illustration of hematopoiesis, showing different blood cell types and their development pathways. Image source: [Wikipedia](https://en.wikipedia.org/wiki/Hematopoiesis).*
+
+---
 
 ## **📌 Overview**
 This project explores deep learning-based classification of blood cell types using the **BloodMNIST** dataset, which consists of **17,092** microscopic images of eight blood cell types. The goal is to enhance automated **hematological diagnostics** by evaluating multiple deep learning architectures, including:
