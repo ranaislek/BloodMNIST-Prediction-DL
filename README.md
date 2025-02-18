@@ -6,6 +6,7 @@
 <div align="center">
     <img src="https://decision-for-liver.eu/wp-content/uploads/2020/07/UNIPD.png" alt="UniPd Logo" width="300"/>
 </div>
+
 ---
 
 ![Blood Cells](visualization_cells.png)
