@@ -1,7 +1,7 @@
-### **Machine Learning for Human Data 2024/25- Blood Cell Type Prediction Using Deep Learning**
+### **Machine Learning for Human Data 2024/25 - Blood Cell Type Prediction Using Deep Learning**
 #### **Accurate Classification of Blood Cell Types with CNN, ResNet, VGG-16, and Inception-v3**
-### Authors: Rana Islek, Enxhi Nushi
-### Date: February 2025
+##### Authors: Rana Islek, Enxhi Nushi
+##### Date: February 2025
 
 <div align="center">
     <img src="https://decision-for-liver.eu/wp-content/uploads/2020/07/UNIPD.png" alt="UniPd Logo" width="300"/>
