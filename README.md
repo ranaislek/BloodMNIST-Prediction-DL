@@ -8,7 +8,7 @@
 </div>
 ---
 
-![Blood Cells](https://raw.githubusercontent.com/your-username/your-repo/main/cells.png)  
+![Blood Cells](https://raw.githubusercontent.com/ranaislek/BloodMNIST-Prediction-DL/visualization_cells.png)  
 
 *Microscopic images of different blood cell types from the BloodMNIST dataset.*
 
