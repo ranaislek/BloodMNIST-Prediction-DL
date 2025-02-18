@@ -8,9 +8,9 @@
 </div>
 ---
 
-![Blood Cells](https://upload.wikimedia.org/wikipedia/commons/4/42/Hematopoiesis_simple.png)  
+![Blood Cells](https://raw.githubusercontent.com/your-username/your-repo/main/cells.png)  
 
-*Illustration of hematopoiesis, showing different blood cell types and their development pathways. Image source: [Wikipedia](https://en.wikipedia.org/wiki/Hematopoiesis).*
+*Microscopic images of different blood cell types from the BloodMNIST dataset.*
 
 ---
 
