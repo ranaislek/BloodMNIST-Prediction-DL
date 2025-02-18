@@ -8,7 +8,9 @@
 </div>
 ---
 
-![Blood Cells](https://raw.githubusercontent.com/ranaislek/BloodMNIST-Prediction-DL/visualization_cells.png)  
+<div align="center">
+    <img src="[https://decision-for-liver.eu/wp-content/uploads/2020/07/UNIPD.png](https://github.com/ranaislek/BloodMNIST-Prediction-DL/blob/main/visualization_cells.png)" alt="UniPd Logo" width="300"/>
+</div>
 
 *Microscopic images of different blood cell types from the BloodMNIST dataset.*
 
